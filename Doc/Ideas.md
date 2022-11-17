@@ -14,4 +14,5 @@ Tijdens het wachten ziet de speler in het startmenu een spelletje Pong live plaa
 Kong wordt al meerdere decennia lastig gevallen door Mario (of Marco ivm copyright. Dat zou betekenen: Marco's informele bijeenkomst ipv Mario Party), dus speelt de speler vanuit het perspectief van Kong. Met de gegeven abilities, die onderaan in het scherm duidelijk aangegeven zijn, is het de bedoeling dat Marco keihard gepompt wordt.  
 
 Iedere keer dat hij sterft, op gruwelijke wijze, wordt het volgende level iets lastiger. Er komt meer onvoorspelbaarheid en snelheid, wat het dus steeds moeilijker maakt om hem neer te halen. Ook komen er na een bepaalde hoeveelheid levels afleidingen, die ervoor zorgen dat de speler het scherm slechter kan zien.  
+![game](images/PongkeyKong.png "Veel te groot plaatje van het denkproces")  
 

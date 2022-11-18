@@ -75,3 +75,41 @@ Om dit wat interessanter te maken. Dit zijn de volgende dingen:
    Mini asteroids zijn asteroids die komen uit de small asteroids die uit de medium sized fast bois zijn gekomen. deze mini asteroids zijn nog kleiner dan de kleine asteroids maar zullen niet sneller bewegen. Als je dat doet wordt het te moeilijk om ze te raken. Er zullen 3 mini asteroids uit een kleine asteroid komen. Dat maakt een totaal van 6 mini asteroids per medium sized fast boi
 3. **Strong big boyes**
    De strong big boyes zijn vrij vergelijkbaar met de normale grote asteroids. Het enige verschil is dat de strong big boyes 2-3 hits nodig hebben voordat ze kapot gaan.
+
+## Idee 2 - Pongkey Kong ©
+
+Zoals de naam zegt, is het een mengsel van 'Pong' en 'Donkey Kong'. Echter heeft het niks te maken met Pong, maar wel met Donkey Kong, dus de naam slaat in essentie nergens op.  
+Tijdens het wachten ziet de speler in het startmenu een spelletje Pong live plaatsvinden, dus wordt de gebruiker in het ootje genomen, want zodra de speler in het startmenu op 'start' drukt, vliegt het balletje het scherm uit en verandert deze langzaam in Donkey Kong.  
+
+Kong wordt al meerdere decennia lastig gevallen door Mario (of Marco ivm copyright. Dat zou betekenen: Marco's informele bijeenkomst ipv Mario Party), dus speelt de speler vanuit het perspectief van Kong. Met de gegeven abilities, die onderaan in het scherm duidelijk aangegeven zijn, is het de bedoeling dat Marco keihard gepompt wordt.  
+
+Iedere keer dat hij sterft, op gruwelijke wijze, wordt het volgende level iets lastiger. Er komt meer onvoorspelbaarheid en snelheid, wat het dus steeds moeilijker maakt om hem neer te halen. Ook komen er na een bepaalde hoeveelheid levels afleidingen, die ervoor zorgen dat de speler het scherm slechter kan zien.  
+
+Dit wordt een spel waar veel gebruik gemaakt kan worden van particles, velle kleuren, ruig beeldmateriaal.  
+![game](images/PongkeyKong.png "Veel te groot plaatje van het denkproces")  
+
+### Pongkey Kong - Thema  
+
+Om het spel toegankelijk en leuk te maken voor iedereen, is er gekozen om een thema te gebruiken die vooral werkt met velle, gesatureerde kleuren en particles.  
+
+### Pongkey Kong - Moeilijkheidsgraad  
+
+Verschillende ideeën zijn bedacht over de moeilijkheidsgraad van het spel, hieronder enkele ideeën:
+- Resource management, er zijn maar een bepaald aantal objecten die de speler kan gebruiken om de tegenstander neer te halen, anders is het level verloren.
+- Enemy increase, verschillende enemies met andere class properties door de levels heen. Vliegende enemies/lopende enemies.  
+
+###  Pongkey Kong - Wapenmechanismen  
+
+- Een aardbei die de speler naar beneden kan laten rollen. Deze doodt 1 enemy op impact, verdwijnt vervolgens.  
+- Een slingshot die een druif in een rechte lijn naar beneden schiet, ook deze doodt 1 enemy op impact.
+- Een banaan die in een boomerang vorm geworpen wordt (bananarang), en elke enemy doodt die hij raakt. Deze heeft een redelijk hoge cooldown.
+- Een granaatappel die geworpen kan worden, en vervolgens explodeert na een bepaalde tijd. Vervolgens doodt dit alle enemies binnen een bepaalde radius.
+- Kokosnoot standaard barrel attack
+- Meloen wordt naar de speler gemieterd
+- Peer deze rolt net zoals meloenen en kokosnoten naar beneden, het enige verschil is dat deze af en toe een soort sprong maakt aangezien deze niet rond is en daarom niet normaal rolt
+**Multiplayer**
+Dit spel is eventueel mogelijk om in multiplayer te maken. Hiermee zou je het idee kunnen hebben dat 1 iemand speelt als Pongkey kong en dat de andere speler speelt als Marco. Er zijn hierbij ook nog uitbreidingsmogelijkheden waarin je meer Marco’s kunt hebben die spelen of mensen die prinses Perzik kunnen zijn en daarbij de spectator zijn.
+
+**Ponkey kong**
+je speelt ponkey kong, en de ai speelt pong.
+pong boy probeert donkey kong boy te vermoorden.

@@ -6,7 +6,7 @@ Na jarenlang niet gepakt te worden, is de dag eindelijk daar dat hij (dronken) i
 
 In plaats van de normale kersen, vindt hij na bepaalde een pepertje. Deze verorbert hij direct, hij groeit, stoom komt uit al zijn gaten (slechts mond). Met zijn nieuw verkregen kracht breekt hij uit de matrix. Hier gaat hij uit op wraak. Het spel verandert van een maze, naar een hack n' slash game.  
 
-## Idee 2 - Pongkey Kong  
+## Idee 2 - Pongkey Kong ©
 
 Zoals de naam zegt, is het een mengsel van 'Pong' en 'Donkey Kong'. Echter heeft het niks te maken met Pong, maar wel met Donkey Kong, dus de naam slaat in essentie nergens op.  
 Tijdens het wachten ziet de speler in het startmenu een spelletje Pong live plaatsvinden, dus wordt de gebruiker in het ootje genomen, want zodra de speler in het startmenu op 'start' drukt, vliegt het balletje het scherm uit en verandert deze langzaam in Donkey Kong.  
@@ -28,7 +28,7 @@ Verschillende ideeën zijn bedacht over de moeilijkheidsgraad van het spel, hier
 - Resource management, er zijn maar een bepaald aantal objecten die de speler kan gebruiken om de tegenstander neer te halen, anders is het level verloren.
 - Enemy increase, verschillende enemies met andere class properties door de levels heen. Vliegende enemies/lopende enemies.  
 
-### Pongkey Kong - Wapenmechanismen  
+###  Pongkey Kong - Wapenmechanismen  
 
 - Een aardbei die de speler naar beneden kan laten rollen. Deze doodt 1 enemy op impact, verdwijnt vervolgens.  
 - Een slingshot die een druif in een rechte lijn naar beneden schiet, ook deze doodt 1 enemy op impact.

@@ -48,3 +48,30 @@ Door gebruik te maken meerdere moeilijkheidsgraden zal je veel aspecten kunnen 	
 
   - **Een enemy de sneller wordt des te langer je in zijn bent.(wordt normale speed na breken van sight)**
     Deze enemy is erg simpel. zolang jij in de line of sight van deze enemy bent komt deze op je afgerend. zodra je de line of sight verliest blijft deze enemy doorgaan naar het laatste punt waar je gezien bent, maar de enemy zal weer terug gaan naar zijn oude snelheid.
+
+## Concept 2. Asteroids
+
+In het spel Asteroids speel je als een spaceship en is het de bedoeling dat je UFO’s en asteroids om je heen kapot moet maken. Dit is een erg simpel spel, maar toch ook erg leuk. 
+Om dit wat interessanter te maken. Dit zijn de volgende dingen:
+
+**Power ups**
+1. **Extra damage**
+   Voor de extra damage is het idee dat je een item kan oppakken die zorgt dat je in plaats van 1 damage, 2 damage doet. een grote asteroid gaat dan dus in 1x naar 2 kleine ipv dat het eerste naar 2 mediums gaat. Of een medium asteroid gaat in 1x kapot.
+
+2. **Extra Health**
+   Voor de extra health is het idee dat je een item in de vorm van een hartje kan pakken. Deze geeft jou 1 leven terug. Je kunt hierbij niet over je maximum aantal health heen gaan.
+
+3. **Invincibility**
+   Dit zal een item worden die je kan oppakken die zorgt dat je voor een x aantal seconden geen damage kan krijgen. Op deze manier kan je iets meer risico nemen. 
+
+4. **Double points**
+    Double points zorgt ervoor dat je dubbele punten krijgt zodra je een asteroid of UFO kapot hebt gemaakt.
+    
+**Verschillende Asteroids**
+1. **Medium sized fast bois**
+   De medium sized fast bois zijn in principe gewoon medium sized asteroids die op de snelheid van kleine asteroids bewegen. Hierdoor wordt het spel een stukje moeilijker maar is het ook niet broken.
+
+2. **Mini Asteroids**
+   Mini asteroids zijn asteroids die komen uit de small asteroids die uit de medium sized fast bois zijn gekomen. deze mini asteroids zijn nog kleiner dan de kleine asteroids maar zullen niet sneller bewegen. Als je dat doet wordt het te moeilijk om ze te raken. Er zullen 3 mini asteroids uit een kleine asteroid komen. Dat maakt een totaal van 6 mini asteroids per medium sized fast boi
+3. **Strong big boyes**
+   De strong big boyes zijn vrij vergelijkbaar met de normale grote asteroids. Het enige verschil is dat de strong big boyes 2-3 hits nodig hebben voordat ze kapot gaan.

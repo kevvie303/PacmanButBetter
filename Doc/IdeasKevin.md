@@ -8,19 +8,23 @@ In plaats van de normale kersen, vindt hij na bepaalde een pepertje. Deze verorb
 
 ## Idee 2 - Pongkey Kong ©
 
-Zoals de naam zegt, is het een mengsel van 'Pong' en 'Donkey Kong'. Echter heeft het niks te maken met Pong, maar wel met Donkey Kong, dus de naam slaat in essentie nergens op.  
-Tijdens het wachten ziet de speler in het startmenu een spelletje Pong live plaatsvinden, dus wordt de gebruiker in het ootje genomen, want zodra de speler in het startmenu op 'start' drukt, vliegt het balletje het scherm uit en verandert deze langzaam in Donkey Kong.  
+Zoals de naam zegt, is het een mengsel van 'Pong' en 'Donkey Kong'. 
 
 Kong wordt al meerdere decennia lastig gevallen door Mario (of Marco ivm copyright. Dat zou betekenen: Marco's informele bijeenkomst ipv Mario Party), dus speelt de speler vanuit het perspectief van Kong. Met de gegeven abilities, die onderaan in het scherm duidelijk aangegeven zijn, is het de bedoeling dat Marco keihard gepompt wordt.  
 
-Iedere keer dat hij sterft, op gruwelijke wijze, wordt het volgende level iets lastiger. Er komt meer onvoorspelbaarheid en snelheid, wat het dus steeds moeilijker maakt om hem neer te halen. Ook komen er na een bepaalde hoeveelheid levels afleidingen, die ervoor zorgen dat de speler het scherm slechter kan zien.  
+Iedere keer dat hij sterft, op gruwelijke wijze, wordt het volgende level iets lastiger. Er komt meer onvoorspelbaarheid en snelheid, wat het dus steeds moeilijker maakt om hem neer te halen. Ook komen er na een bepaalde hoeveelheid levels afleidingen, die ervoor zorgen dat de speler het scherm slechter kan zien.
+
+Tijdens het spel speelt er een AI het spel 'pong', het balletje gaat eeuwig naar links en rechts, en is een extra moeilijkheid in het spel. Deze moet ontweken worden.
 
 Dit wordt een spel waar veel gebruik gemaakt kan worden van particles, velle kleuren, ruig beeldmateriaal.  
 ![game](images/PongkeyKong.png "Veel te groot plaatje van het denkproces")  
 
+Hieronder het concept, maar dan netter uitgewerkt (portrait):  
+![game](images/mockup.png "Onderaan staan de abilities die klikbaar zijn, bovenaan het spel zelf")
+
 ### Pongkey Kong - Thema  
 
-Om het spel toegankelijk en leuk te maken voor iedereen, is er gekozen om een thema te gebruiken die vooral werkt met velle, gesatureerde kleuren en particles.  
+Om het spel toegankelijk en leuk te maken voor iedereen, is er gekozen om een thema te gebruiken die vooral werkt met velle, gesatureerde kleuren en veel particles.  
 
 ### Pongkey Kong - Moeilijkheidsgraad  
 
@@ -34,3 +38,10 @@ Verschillende ideeën zijn bedacht over de moeilijkheidsgraad van het spel, hier
 - Een slingshot die een druif in een rechte lijn naar beneden schiet, ook deze doodt 1 enemy op impact.
 - Een banaan die in een boomerang vorm geworpen wordt (bananarang), en elke enemy doodt die hij raakt. Deze heeft een redelijk hoge cooldown.
 - Een granaatappel die geworpen kan worden, en vervolgens explodeert na een bepaalde tijd. Vervolgens doodt dit alle enemies binnen een bepaalde radius.
+
+### Pongkey Kong - Levels  
+- Zodra alle enemies in een level verslagen zijn, begint het volgende level.
+- Aan het begin van een level zijn alle abilities bruikbaar.
+- Als de tijd op is, stopt het level en begint de speler opnieuw.
+- In een nieuw level is er de mogelijkheid om nieuwe abilities te unlocken, die de speler helpen met de enemies te verslaan.
+

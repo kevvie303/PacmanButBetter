@@ -1,1 +1,1 @@
-[game](Doc/Ideas.md)
+[game](Doc/IdeasKevin.md)

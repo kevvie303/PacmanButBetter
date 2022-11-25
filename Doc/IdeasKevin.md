@@ -1,20 +1,10 @@
-## Idee 1 - PacmanButBetter  
+## Fruitige Frank ©
 
-Het eerste idee, na korte brainstorm, is om een remake te makken van de klassieke arcade game 'PacMan', maar in plaats van de normale gameplay, is hij eigenlijk een belastingontduiker.  
-
-Na jarenlang niet gepakt te worden, is de dag eindelijk daar dat hij (dronken) in zijn appartement gevonden wordt. Met een knuppel wordt hij KO geslagen. Als straf komt PacMan voor altijd in een onuitbreekbaar doolhof terecht. Dag in, dag uit doet hij hetzelfde, geterroriseerd door zijn herinneringen aan zijn vorige leven. Hij is uit op wraak.  
-
-In plaats van de normale kersen, vindt hij na bepaalde een pepertje. Deze verorbert hij direct, hij groeit, stoom komt uit al zijn gaten (slechts mond). Met zijn nieuw verkregen kracht breekt hij uit de matrix. Hier gaat hij uit op wraak. Het spel verandert van een maze, naar een hack n' slash game.  
-
-## Idee 2 - Fruitige Frank ©
-
-Fruitige Frank's fruit voorraad wordt aangevallen door fruit lustige insecten, daarom gebruikt hij alles in zijn arsenaal om zijn fruit te verdedigen.
-
-Er komt meer onvoorspelbaarheid en snelheid, wat het dus steeds moeilijker maakt om hem neer te halen. Ook komen er na een bepaalde hoeveelheid levels afleidingen, die ervoor zorgen dat de speler het scherm slechter kan zien.
-
-Tijdens het spel speelt er een AI het spel 'pong', het balletje gaat eeuwig naar links en rechts, en is een extra moeilijkheid in het spel. Deze moet ontweken worden.
+Fruitige Frank's fruit voorraad wordt aangevallen door fruit lustige insecten, daarom gebruikt hij alles in zijn arsenaal om zijn fruit te verdedigen.  
 
 Dit wordt een spel waar veel gebruik gemaakt kan worden van particles, velle kleuren, ruig beeldmateriaal.  
+
+Hieronder staan wat ruwe schetsen van hoe het er in-game uitziet.
 ![game](images/PongkeyKong.png "Veel te groot plaatje van het denkproces")  
 
 Hieronder het concept, maar dan netter uitgewerkt (portrait):  
@@ -49,7 +39,4 @@ Verschillende ideeën zijn bedacht over de moeilijkheidsgraad van het spel, hier
 - Aan het begin van een level zijn alle abilities bruikbaar.
 - Als de tijd op is, stopt het level en begint de speler opnieuw.
 - In een nieuw level is er de mogelijkheid om nieuwe abilities te unlocken, die de speler helpen met de enemies te verslaan.  
-
-### Fruitige Frank - het Verhaal  
-- Fruitige Frank's fruitvooraad wordt aangevallen door fruitlustige insecten, daarom gebruikt hij alles in zijn arsenaal om zijn voedsel te verdegigen.
-
+- Er is een endless mode, die gaat door totdat de speler dood is. De enemies worden steeds sneller en meer divers.
